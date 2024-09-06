@@ -1,6 +1,6 @@
 # SIT-MANAGER
 
-SIT-Manager project by SingleBit
+SIT-Manager project by SingleBit.xyz
 
 ## Getting Started with Create React App
 
